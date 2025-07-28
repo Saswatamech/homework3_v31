@@ -33,7 +33,7 @@ def generate_dataset(output_json: str="data/rft.json", oversample: int = 20, tem
         # Generate multiple completions
         # Ensure that batched_generate returns a list of strings
         try:
-            generated_texts = cot_llm.batched_generate(prompts=[cot_prompt], num_return_sequences=oversample, temperature=temperature)[0]
+            generated_texts = cot_llm.batched_generate(prompts=cot_llm.format_prompt(question), num_return_sequences=oversample, temperature=temperature)[0]
         except Exception as e:
             print(f"Error generating for question {i}: {e}")
             continue # Skip to the next question if generation fails
