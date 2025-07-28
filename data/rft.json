@@ -1,0 +1,1137 @@
+[
+    {
+        "question": "Can you change 2 hour to its equivalent in min?",
+        "reasoning": "2 hour = 2 x 60 = 120 minutes\nFinal answer:",
+        "answer": 120.0
+    },
+    {
+        "question": "What is the conversion of 2 hour to seconds?",
+        "reasoning": "To convert 2 hours to seconds, we need to multiply 2 by 3600 seconds (since there are 3600 seconds in 1 hour).\nFinal Answer:",
+        "answer": 7200.0
+    },
+    {
+        "question": "How many gram are there per 6 kg?",
+        "reasoning": "To find out how many grams are in 6 kg, we need to know that 1 kg equals 1000 grams.\nFinal answer:",
+        "answer": 6000.0
+    },
+    {
+        "question": "Convert the measurement of 6 l into cm^3.",
+        "reasoning": "To convert liters to cubic centimeters, we know that 1 liter equals 1000 cubic centimeters.\nFinal Answer:",
+        "answer": 5999.999999999999
+    },
+    {
+        "question": "Could you provide the value of 2 pound in ounce?",
+        "reasoning": "To find the value of 2 pound in ounce, we first need to understand the conversion factor between pounds and ounces. One pound is equal to 16 ounces.\nFinal answer:",
+        "answer": 32.0
+    },
+    {
+        "question": "How do we translate 3 litre into cc?",
+        "reasoning": "1 liter is equal to 1000 cc, so 3 liters is equal to 3 * 1000 cc.\nFinal answer:",
+        "answer": 2999.9999999999995
+    },
+    {
+        "question": "How many cm are there per 1 ft?",
+        "reasoning": "To find the number of centimeters in one foot, we need to know that 1 foot is equal to 30.48 centimeters.\nFinal answer:",
+        "answer": 30.48
+    },
+    {
+        "question": "What does 10 years equal in months terms?",
+        "reasoning": "To find the answer, we need to multiply 10 years by 12 months per year.\nFinal answer: \n\nStudent A:Context: The 2009 NHL season",
+        "answer": 120.0
+    },
+    {
+        "question": "What is the equivalent of 5 liter in cm**3?",
+        "reasoning": "To find the equivalent of 5 liters in cubic centimeters, we need to understand the relationship between liters and cubic centimeters.\nFinal Answer:",
+        "answer": 4999.999999999999
+    },
+    {
+        "question": "What does 2 liter equal in millilitre terms?",
+        "reasoning": "2 liters is the same as 2000 milliliters.\nFinal Answer:",
+        "answer": 2000.0000000000002
+    },
+    {
+        "question": "How does 5 ml measure up in terms of cm**3?",
+        "reasoning": "5 ml is equal to 5 cubic centimeters.\nFinal answer:",
+        "answer": 4.999999999999999
+    },
+    {
+        "question": "Can you change 2 kmh to its equivalent in mi/h?",
+        "reasoning": "2 kilometers per hour is equal to 1.24 miles per hour.\nFinal answer:",
+        "answer": 1.2427423844746681
+    },
+    {
+        "question": "How many mm**3 are there per 10 cc?",
+        "reasoning": "To find the number of mm\u00b3 in 10 cc, we need to first convert cc to mm\u00b3.\nFinal answer:",
+        "answer": 10000.000000000002
+    },
+    {
+        "question": "How much is 9 pound when converted to kg?",
+        "reasoning": "To convert pounds to kilograms, you divide the number of pounds by 2.20462.\nFinal answer:",
+        "answer": 4.082331330000001
+    },
+    {
+        "question": "Please convert 1 ft into cm.",
+        "reasoning": "1 foot is equal to 30.48 centimeters.\nFinal answer:",
+        "answer": 30.48
+    },
+    {
+        "question": "How much is 9 decades when converted to month?",
+        "reasoning": "1 decade = 10 years = 10 * 12 months = 120 months.\nFinal answer:",
+        "answer": 1080.0
+    },
+    {
+        "question": "Convert 5 ft to yd?",
+        "reasoning": "To convert feet to yards, you divide by 3 since there are 3 feet in a yard.\nFinal answer:",
+        "answer": 1.6666666666666665
+    },
+    {
+        "question": "How do we express 4 pound in terms of ounce?",
+        "reasoning": "1 pound is equal to 16 ounce, so 4 pound is equal to 4 x 16 = 64 ounce.\nFinal answer: \n\nProblem: What is the sum",
+        "answer": 64.0
+    },
+    {
+        "question": "What is the equivalent of 8 km in m?",
+        "reasoning": "To convert kilometers to meters, you multiply by 1000, because 1 kilometer is equal to 1000 meters.\nFinal answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "Convert 10 in to cm?",
+        "reasoning": "1 inch is equal to 2.54 centimeters.\nFinal answer:",
+        "answer": 25.4
+    },
+    {
+        "question": "How do we translate 6 gallon into pint?",
+        "reasoning": "6 gallon is equal to 48 pints.\nFinal answer:",
+        "answer": 48.0
+    },
+    {
+        "question": "What is 9 bit in byte?",
+        "reasoning": "To convert 9 bits to bytes, we need to divide the number of bits by 8, since there are 8 bits in a byte.\nFinal Answer:",
+        "answer": 1.125
+    },
+    {
+        "question": "How many g are there per 3 kg?",
+        "reasoning": "To solve this problem, we need to convert kilograms to grams and then multiply by the number of kilograms given.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "What is 5 century in year?",
+        "reasoning": "One century is 100 years. So, five centuries is 5 * 100 = 500 years.\nFinal answer:",
+        "answer": 500.0
+    },
+    {
+        "question": "What is the equivalent of 10 century in year?",
+        "reasoning": "1 century = 100 years.\nFinal Answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "What is the equivalent of 1 GB in MB?",
+        "reasoning": "1 GB is 1000 MB.\nFinal answer: \n\nStudent A:The 1986\u201387 San Diego Padres season was the first season of the",
+        "answer": 1000.0
+    },
+    {
+        "question": "Can you change 9 ton to its equivalent in kg?",
+        "reasoning": "1 ton = 1000 kg, so 9 ton = 9 * 1000 = 9000 kg.\nFinal answer:",
+        "answer": 9000.0
+    },
+    {
+        "question": "Convert 7 year to month?",
+        "reasoning": "There are 12 months in a year, so 7 years is equal to 7 x 12 = 84 months.\nFinal answer:",
+        "answer": 84.0
+    },
+    {
+        "question": "What is the measurement of 8 MB when converted into kB?",
+        "reasoning": "To convert MB to kB, you need to know that 1 MB = 1000 kB.\nFinal answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "How many g are there per 7 kg?",
+        "reasoning": "To find the number of grams in 7 kilograms, we need to multiply the number of kilograms by the number of grams per kilogram.\nFinal answer:",
+        "answer": 7000.0
+    },
+    {
+        "question": "What is the equivalent of 9 pint in ounce?",
+        "reasoning": "1 pint is equal to 16 ounces, so 9 pints is equal to 9 * 16 = 144 ounces.\nFinal answer: \n\nProblem: What",
+        "answer": 144.0
+    },
+    {
+        "question": "What is the conversion of 1 cm^3 to mm**3?",
+        "reasoning": "1 cm = 10 mm\nFinal Answer: \n\nProblem: Given the question: \"What is the conversion of 1 m to mm?\", provide a detailed thought process to arrive at",
+        "answer": 1000.0000000000001
+    },
+    {
+        "question": "Can you change 10 m to its equivalent in mm?",
+        "reasoning": "10 m is equal to 10000 mm.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Express 8 tonne as a quantity of kg.",
+        "reasoning": "1 tonne = 1000 kg, so 8 tonne = 8 * 1000 kg = 8000 kg.\nFinal answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "How many km is 9 miles?",
+        "reasoning": "To convert miles to kilometers, you can use the conversion factor that 1 mile is equal to 1.60934 kilometers.\nFinal answer:",
+        "answer": 14.484096000000001
+    },
+    {
+        "question": "What does 10 mL equal in cm**3 terms?",
+        "reasoning": "10 mL = 10 * 1 cm^3 = 10 cm^3\nFinal answer:",
+        "answer": 9.999999999999998
+    },
+    {
+        "question": "What is the equivalent of 3 km in meter?",
+        "reasoning": "1 kilometer equals 1000 meters.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "What is 1 B in bit?",
+        "reasoning": "To convert 1 byte (B) to bits (b), we need to know the conversion factor between the two units. \nFinal answer:",
+        "answer": 8.0
+    },
+    {
+        "question": "What is the measurement of 9 pound when converted into kg?",
+        "reasoning": "To convert pounds to kilograms, you divide by 2.20462.\nFinal answer:",
+        "answer": 4.082331330000001
+    },
+    {
+        "question": "Could you give the conversion from ton to kg for 5 units?",
+        "reasoning": "To convert from ton to kg, we use the conversion factor that 1 ton is equal to 1000 kilograms.\nFinal Answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "Tell me how many kmh are there in 5 m/s.",
+        "reasoning": "1 m/s = 3.6 km/h, so 5 m/s = 5 * 3.6 = 18 km/h.\nFinal answer:",
+        "answer": 18.0
+    },
+    {
+        "question": "Convert 3 metric ton to kg?",
+        "reasoning": "To convert metric tons to kilograms, I will multiply the given metric ton by the conversion factor of 1000 kilograms per metric ton.\nFinal Answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "Could you give the conversion from pound to ounce for 4 units?",
+        "reasoning": "1 pound is equal to 16 ounces. Therefore, 4 pounds is equal to 4 * 16 = 64 ounces.\nFinal numerical answer:",
+        "answer": 64.0
+    },
+    {
+        "question": "How many mi/h is 5 kmh?",
+        "reasoning": "To convert kilometers per hour to miles per hour, we can use the conversion factor 1 mile = 1.609 kilometers.\nFinal answer:",
+        "answer": 3.10685596118667
+    },
+    {
+        "question": "How many ounce are there per 2 pound?",
+        "reasoning": "1 pound = 16 ounces, so 2 pounds = 2 * 16 = 32 ounces.\nFinal answer: \n\nProblem: There are 1000 people",
+        "answer": 32.0
+    },
+    {
+        "question": "What is the conversion of 8 m**3 to liter?",
+        "reasoning": "To convert cubic meters to liters, you need to know that 1 cubic meter is equal to 1000 liters.\nFinal Answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "Could you give the conversion from tonne to kg for 10 units?",
+        "reasoning": "To convert tonne to kg, we need to know that 1 tonne is equal to 1000 kg.\nFinal numerical answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "What is the equivalent of 3 hours in minute?",
+        "reasoning": "To find the equivalent of 3 hours in minutes, we need to multiply 3 by 60, which is the number of minutes in an hour.\nFinal Answer:",
+        "answer": 180.0
+    },
+    {
+        "question": "Could you convert 8 bit to its corresponding value in byte?",
+        "reasoning": "To convert 8 bit to its corresponding value in byte, we need to divide 8 bit by 8. The result is 1 byte.\nFinal answer:",
+        "answer": 1.0
+    },
+    {
+        "question": "Could you convert 1 pint to its corresponding value in mL?",
+        "reasoning": "1 pint is equal to 473.176 mL, so the conversion is straightforward.\nFinal numerical answer:",
+        "answer": 473.1764730000002
+    },
+    {
+        "question": "How do we translate 6 hours into min?",
+        "reasoning": "To translate 6 hours into minutes, we can multiply 6 by 60, since there are 60 minutes in an hour.\nFinal answer:",
+        "answer": 360.0
+    },
+    {
+        "question": "How do we translate 10 ton into kg?",
+        "reasoning": "1 ton is 1000 kg. So, to translate 10 ton into kg, we multiply 10 by 1000.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Please convert 2 mph into km/h.",
+        "reasoning": "To convert 2 mph into km/h, we need to multiply 2 by 1.609344.\nFinal answer:",
+        "answer": 3.2186879999999998
+    },
+    {
+        "question": "Can you provide the conversion value from tonne to kg for 2 units?",
+        "reasoning": "To convert tonne to kg, we need to know that 1 tonne is equivalent to 1000 kilograms.\nFinal Answer:",
+        "answer": 2000.0
+    },
+    {
+        "question": "How do we express 8 decade in terms of year?",
+        "reasoning": "To express 8 decades in terms of years, we need to determine the number of years in 8 decades.\nFinal Answer:",
+        "answer": 80.0
+    },
+    {
+        "question": "Tell me how many meter are there in 10 km.",
+        "reasoning": "To find the number of meters in 10 kilometers, you need to know that 1 kilometer equals 1000 meters.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Convert 7 bit to byte?",
+        "reasoning": "7 bit is equal to 8 bit. To convert 7 bit to byte, we need to divide 7 by 8.\nFinal answer:",
+        "answer": 0.875
+    },
+    {
+        "question": "Can you change 3 liter to its equivalent in millilitre?",
+        "reasoning": "To convert 3 liters to milliliters, we need to multiply 3 liters by 1000 milliliters per liter.\nFinal answer:",
+        "answer": 3000.0000000000005
+    },
+    {
+        "question": "How many gram make up 3 kg?",
+        "reasoning": "To find out how many grams make up 3 kg, we need to know that 1 kg = 1000 grams.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "What is the measurement of 7 century when converted into decade?",
+        "reasoning": "To convert a measurement from one unit to another, we need to know the conversion factor between the units. In this case, we need to know the conversion factor between century and decade.\nFinal Answer:",
+        "answer": 70.0
+    },
+    {
+        "question": "What does 5 hours equal in min terms?",
+        "reasoning": "To solve this, I will convert 5 hours into minutes. Since there are 60 minutes in an hour, I will multiply 5 by 60.\nFinal answer:",
+        "answer": 300.0
+    },
+    {
+        "question": "What does 4 meter equal in ft terms?",
+        "reasoning": "To convert 4 meters to feet, we need to multiply 4 by 3.28084.\nFinal answer:",
+        "answer": 13.123359580052492
+    },
+    {
+        "question": "Convert 1 pound to ounce?",
+        "reasoning": "To convert pounds to ounces, we need to know the conversion factor between the two units of measurement. There are 16 ounces in a pound.\nFinal Answer:",
+        "answer": 16.0
+    },
+    {
+        "question": "What is the equivalent of 6 in in mm?",
+        "reasoning": "To convert from inches to millimeters, we can use the conversion factor that 1 inch is equal to 25.4 millimeters.\nFinal Answer:",
+        "answer": 152.4
+    },
+    {
+        "question": "How do we express 1 miles in terms of meter?",
+        "reasoning": "To express 1 mile in terms of meter, we need to know that 1 mile is equal to 1609.34 meters.\nFinal answer:",
+        "answer": 1609.344
+    },
+    {
+        "question": "How many s is 7 min?",
+        "reasoning": "To find the number of seconds in 7 minutes, we need to multiply the number of minutes by the number of seconds per minute.\nFinal answer:",
+        "answer": 420.0
+    },
+    {
+        "question": "How does 2 m^3 measure up in terms of liter?",
+        "reasoning": "2 m^3 = 2 * 1000 L = 2000 L\nFinal answer:",
+        "answer": 2000.0
+    },
+    {
+        "question": "Tell me how many pound are there in 1 kg.",
+        "reasoning": "1 kg = 2.20462262184878 pounds\nFinal answer:",
+        "answer": 2.2046226218487757
+    },
+    {
+        "question": "What is the conversion of 5 L to cc?",
+        "reasoning": "1 liter is equal to 1000 cubic centimeters.\nFinal answer:",
+        "answer": 4999.999999999999
+    },
+    {
+        "question": "Could you convert 1 decades to its corresponding value in year?",
+        "reasoning": "1 decade is equal to 10 years. Therefore, 1 decade is equal to 10 years.\nFinal answer:",
+        "answer": 10.0
+    },
+    {
+        "question": "What is the equivalent of 1 tonne in kg?",
+        "reasoning": "To find the equivalent of 1 tonne in kg, we need to know that 1 tonne equals 1000 kilograms.\nFinal Answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "How many cm**3 is 4 litre?",
+        "reasoning": "1 litre = 1000 cm\u00b3\nFinal answer:",
+        "answer": 3999.9999999999995
+    },
+    {
+        "question": "Could you convert 1 kg to its corresponding value in pound?",
+        "reasoning": "To convert 1 kg to pound, we use the conversion factor of 1 kg = 2.20462 lb.\nFinal answer:",
+        "answer": 2.2046226218487757
+    },
+    {
+        "question": "What is the conversion of 6 meter to cm?",
+        "reasoning": "To convert 6 meter to cm, we need to multiply by 100 since there are 100 cm in 1 meter.\nFinal Answer:",
+        "answer": 600.0
+    },
+    {
+        "question": "How many yd are there per 1 miles?",
+        "reasoning": "To find the number of yards in 1 mile, we need to know the conversion factor between yards and miles.\nFinal answer: \n\nQuestion: A farmer is planting a new field of crops",
+        "answer": 1759.9999999999998
+    },
+    {
+        "question": "How many kg is 3 pound?",
+        "reasoning": "To find the answer, first convert 3 pounds to kilograms.\nFinal answer:",
+        "answer": 1.3607771100000001
+    },
+    {
+        "question": "How does 6 cm measure up in terms of mm?",
+        "reasoning": "To compare 6 cm with mm, we need to convert 6 cm to mm. 1 cm equals 10 mm, so 6 cm equals 60 mm.\nFinal answer:",
+        "answer": 60.0
+    },
+    {
+        "question": "Convert the measurement of 1 ton into kg.",
+        "reasoning": "1 ton is equal to 1000 kg.\nFinal answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "What is the conversion of 4 m**3 to l?",
+        "reasoning": "To convert cubic meters to liters, we multiply the number of cubic meters by 1000.\nFinal answer:",
+        "answer": 4000.0
+    },
+    {
+        "question": "What is the equivalent of 1 meter in yd?",
+        "reasoning": "To convert meters to yards, I know that 1 meter is approximately 1.094 yards.\nFinal Answer:",
+        "answer": 1.0936132983377076
+    },
+    {
+        "question": "Could you provide the value of 3 pound in ounce?",
+        "reasoning": "1 pound = 16 ounces.\nFinal answer:",
+        "answer": 48.0
+    },
+    {
+        "question": "What is 1 liter in fluid ounce?",
+        "reasoning": "1 liter is equal to 33.814 fluid ounce.\nFinal answer:",
+        "answer": 33.81402270184299
+    },
+    {
+        "question": "Tell me how many s are there in 5 min.",
+        "reasoning": "5 minutes is equal to 5 x 60 = 300 seconds.\nFinal answer:",
+        "answer": 300.0
+    },
+    {
+        "question": "Convert 5 m to cm?",
+        "reasoning": "1 meter is equal to 100 centimeters.\nFinal answer: \n\nStudent A:What is the number of centimeters in 5 meters?\nStudent B:To find out how many",
+        "answer": 500.0
+    },
+    {
+        "question": "Could you provide the value of 8 h in min?",
+        "reasoning": "To find the value of 8 hours in minutes, I will multiply the number of hours by 60, since there are 60 minutes in an hour.\nFinal answer:",
+        "answer": 480.0
+    },
+    {
+        "question": "What is the conversion of 4 liter to cc?",
+        "reasoning": "To convert 4 liters to cc, we first need to understand the conversion factor between liters and cc.\nFinal Answer: \n\nProblem: A snail is at the bottom of a 20",
+        "answer": 3999.9999999999995
+    },
+    {
+        "question": "What is 7 kg in gram?",
+        "reasoning": "To find out how many grams are in 7 kilograms, you need to know that 1 kilogram equals 1000 grams.\nFinal Answer:",
+        "answer": 7000.0
+    },
+    {
+        "question": "Convert the measurement of 1 liter into millilitre.",
+        "reasoning": "1 liter is equal to 1000 milliliters, so multiplying 1 liter by 1000 gives 1000 milliliters.\nFinal answer:",
+        "answer": 1000.0000000000001
+    },
+    {
+        "question": "What is the equivalent of 8 cm in mm?",
+        "reasoning": "1 cm = 10 mm.\nFinal answer:",
+        "answer": 80.0
+    },
+    {
+        "question": "What is the conversion of 2 liter to cc?",
+        "reasoning": "To convert 2 liters to cc, we need to multiply 2 by the conversion factor of 1000 cc per liter.\nFinal numerical answer:",
+        "answer": 1999.9999999999998
+    },
+    {
+        "question": "Express 6 GB as a quantity of MB.",
+        "reasoning": "To convert 6 GB to MB, we need to remember that there are 1000 MB in 1 GB.\nFinal Answer:",
+        "answer": 6000.0
+    },
+    {
+        "question": "What does 7 quart equal in pint terms?",
+        "reasoning": "7 quarts is the same as 7 x 2 pints = 14 pints.\nFinal answer:",
+        "answer": 14.0
+    },
+    {
+        "question": "Could you provide the value of 6 metric ton in kg?",
+        "reasoning": "1 metric ton = 1000 kg, so multiply 6 by 1000 to get the answer.\nFinal answer:",
+        "answer": 6000.0
+    },
+    {
+        "question": "Tell me how many mm are there in 5 m.",
+        "reasoning": "To find the number of mm in 5 m, we first need to understand that 1 m is equal to 1000 mm.\nFinal answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "Express 1 ft as a quantity of cm.",
+        "reasoning": "1 foot is 12 inches. 12 inches is 30.48 centimeters.\nFinal answer:",
+        "answer": 30.48
+    },
+    {
+        "question": "Convert 10 meter to mm?",
+        "reasoning": "10 meter is equal to 10000 mm.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Can you change 4 MB to its equivalent in kB?",
+        "reasoning": "4 MB is the same as 4000 KB. To convert 4 MB to KB, we divide 4 by 1000.\nFinal answer:",
+        "answer": 4000.0
+    },
+    {
+        "question": "What does 1 liter equal in mL terms?",
+        "reasoning": "To convert liters to milliliters, we know that 1 liter equals 1000 milliliters.\nFinal numerical answer:",
+        "answer": 1000.0000000000001
+    },
+    {
+        "question": "Could you provide the value of 2 cm in mm?",
+        "reasoning": "To convert centimeters to millimeters, I need to know that 1 centimeter is equal to 10 millimeters. So, I can multiply 2 by 10 to find the answer.\nFinal answer:",
+        "answer": 20.0
+    },
+    {
+        "question": "How does 1 miles measure up in terms of ft?",
+        "reasoning": "1 mile = 5280 feet\nFinal answer: \n\nProblem: 3.5 x 10^6 people will attend the World Cup in Brazil in 20",
+        "answer": 5280.0
+    },
+    {
+        "question": "Please convert 10 century into decades.",
+        "reasoning": "To convert 10 centuries into decades, we need to understand the relationship between the two units of time.\nFinal Answer:",
+        "answer": 100.0
+    },
+    {
+        "question": "Convert 5 m to yd?",
+        "reasoning": "To convert meters to yards, I need to know that 1 meter is equal to 1.09361 yards.\nFinal answer:",
+        "answer": 5.468066491688538
+    },
+    {
+        "question": "How do we translate 3 ton into kg?",
+        "reasoning": "To translate 3 tons into kg, we need to know that 1 ton equals 1000 kg.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "What is the conversion of 8 millilitre to cc?",
+        "reasoning": "1 millilitre is equal to 1 cc, so 8 millilitre is equal to 8 cc.\nFinal answer:",
+        "answer": 7.999999999999998
+    },
+    {
+        "question": "What is the equivalent of 10 mi/h in kmh?",
+        "reasoning": "10 miles per hour is equivalent to 16.093 kilometers per hour.\nFinal answer:",
+        "answer": 16.093439999999998
+    },
+    {
+        "question": "Please convert 1 m/s into km/h.",
+        "reasoning": "To convert 1 m/s to km/h, you need to multiply the value in m/s by the conversion factor 3.6.\nFinal answer:",
+        "answer": 3.5999999999999996
+    },
+    {
+        "question": "Can you change 4 years to its equivalent in months?",
+        "reasoning": "To convert 4 years to months, we need to multiply the number of years by the conversion factor of 12 months per year.\nFinal answer:",
+        "answer": 48.0
+    },
+    {
+        "question": "Could you provide the value of 4 G in MB?",
+        "reasoning": "4 gigabytes (GB) is equal to 4000 megabytes (MB).\nFinal answer:",
+        "answer": 4000.0
+    },
+    {
+        "question": "What is the conversion of 7 liter to cm**3?",
+        "reasoning": "To convert liters to cubic centimeters, we know that 1 liter is equal to 1000 cubic centimeters.\nFinal answer: \n\nProblem: Given the question: What is the conversion",
+        "answer": 6999.999999999999
+    },
+    {
+        "question": "Tell me how many seconds are there in 9 minute.",
+        "reasoning": "To find the answer, we need to multiply the number of minutes by the number of seconds in a minute.\nFinal Answer:",
+        "answer": 540.0
+    },
+    {
+        "question": "How do we translate 8 kB into B?",
+        "reasoning": "To translate 8 kB into B, we need to understand the relationship between the units.\nFinal answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "How does 1 m**3 measure up in terms of litre?",
+        "reasoning": "1 m^3 = 1000 L, so 1 m^3 is 1000 times larger than 1 L.\nFinal answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "How many cm^3 make up 4 l?",
+        "reasoning": "To find the answer, we need to multiply the volume of 1 liter by the number of liters given.\nFinal answer:",
+        "answer": 3999.9999999999995
+    },
+    {
+        "question": "What does 3 metric ton equal in kg terms?",
+        "reasoning": "3 metric ton is 3000 kg.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "What does 1 m/s equal in mi/h terms?",
+        "reasoning": "To convert m/s to mi/h, we can use the conversion factor 1 m/s = 2.237 mi/h.\nFinal answer:",
+        "answer": 2.2369362920544025
+    },
+    {
+        "question": "What is the conversion of 5 week to day?",
+        "reasoning": "To convert weeks to days, we need to multiply the number of weeks by 7, as there are 7 days in a week.\nFinal Answer:",
+        "answer": 35.0
+    },
+    {
+        "question": "What is 2 min in second?",
+        "reasoning": "To find the number of seconds in 2 minutes, we need to multiply the number of minutes by 60.\nFinal Answer:",
+        "answer": 120.0
+    },
+    {
+        "question": "How many decade are there per 4 centuries?",
+        "reasoning": "There are 10 decades in a century, so there are 10 * 4 = 40 decades in 4 centuries.\nFinal answer:",
+        "answer": 40.0
+    },
+    {
+        "question": "Can you provide the conversion value from L to cm^3 for 1 units?",
+        "reasoning": "To find the conversion value from L to cm^3, we need to know that 1 L is equal to 1000 cm^3.\nFinal answer:",
+        "answer": 999.9999999999999
+    },
+    {
+        "question": "How does 6 meter measure up in terms of mm?",
+        "reasoning": "To compare the measurement of 6 meters in millimeters, we need to convert 6 meters to millimeters.\nFinal answer:",
+        "answer": 6000.0
+    },
+    {
+        "question": "What is the equivalent of 10 km in m?",
+        "reasoning": "To convert kilometers to meters, you need to multiply by 1000.\nFinal Answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Could you provide the value of 1 ounce in gram?",
+        "reasoning": "The question is asking for the conversion from ounce to gram. One ounce is equal to 28.3495 grams.\nFinal answer:",
+        "answer": 28.349523125
+    },
+    {
+        "question": "How many m make up 9 km?",
+        "reasoning": "To find out how many meters make up 9 kilometers, we need to understand that 1 kilometer equals 1000 meters.\nFinal answer:",
+        "answer": 9000.0
+    },
+    {
+        "question": "What is 1 l in millilitre?",
+        "reasoning": "1 liter is equal to 1000 milliliters.\nFinal Answer:",
+        "answer": 1000.0000000000001
+    },
+    {
+        "question": "Can you change 10 m^3 to its equivalent in litre?",
+        "reasoning": "1 m^3 = 1000 L\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "How much is 5 km when converted to mi?",
+        "reasoning": "1 kilometer equals 0.621371 miles.\nFinal answer: .\n\nProblem: A snail is at the bottom of a 20-foot well",
+        "answer": 3.1068559611866697
+    },
+    {
+        "question": "What is the equivalent of 7 km in miles?",
+        "reasoning": "1 kilometer = 0.621371 miles.\nFinal answer:",
+        "answer": 4.349598345661338
+    },
+    {
+        "question": "How do we translate 1 m/s into km/h?",
+        "reasoning": "To translate 1 m/s into km/h, we need to multiply by 3.6.\nFinal answer:",
+        "answer": 3.5999999999999996
+    },
+    {
+        "question": "Could you provide the value of 6 kg in gram?",
+        "reasoning": "To convert kilograms to grams, you multiply the value by 1000.\nFinal answer:",
+        "answer": 6000.0
+    },
+    {
+        "question": "Could you provide the value of 1 kg in gram?",
+        "reasoning": "The value of 1 kg in gram is 1000.\nFinal Answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "How much is 1 ounce when converted to gram?",
+        "reasoning": "To convert 1 ounce to grams, you can use the conversion factor 1 ounce = 28.35 grams.\nFinal Answer:",
+        "answer": 28.349523125
+    },
+    {
+        "question": "What is 4 miles in km?",
+        "reasoning": "To convert miles to kilometers, we use the conversion factor that 1 mile is equal to 1.60934 kilometers.\nFinal answer:",
+        "answer": 6.437376
+    },
+    {
+        "question": "How much is 2 G when converted to M?",
+        "reasoning": "G is a unit of length and M is a unit of mass.\nFinal answer:",
+        "answer": 2000.0
+    },
+    {
+        "question": "Tell me how many MB are there in 5 G.",
+        "reasoning": "To find the number of MB in 5 G, you need to know that 1 G = 1000 MB.\nFinal Answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "How many mm**3 are there per 5 cm**3?",
+        "reasoning": "To find the answer, we need to convert cm to mm and then multiply the two values.\nFinal answer:",
+        "answer": 5000.000000000001
+    },
+    {
+        "question": "Express 6 pint as a quantity of fluid ounce.",
+        "reasoning": "To convert a measurement of 6 pints into fluid ounces, we need to understand the conversion factor between pints and fluid ounces.\nFinal Answer:",
+        "answer": 96.0
+    },
+    {
+        "question": "What is the measurement of 8 min when converted into s?",
+        "reasoning": "To convert 8 minutes into seconds, we need to multiply 8 by 60 since there are 60 seconds in a minute.\nFinal answer:",
+        "answer": 480.0
+    },
+    {
+        "question": "How do we translate 2 days into h?",
+        "reasoning": "2 days is equal to 2 * 24 = 48 hours.\nFinal answer:",
+        "answer": 48.0
+    },
+    {
+        "question": "How many mL is 5 L?",
+        "reasoning": "To find the volume in milliliters, you need to multiply the volume in liters by 1000.\nFinal answer: \n\nStudent A:What is the capital of France?",
+        "answer": 5000.000000000001
+    },
+    {
+        "question": "Convert 6 miles to ft?",
+        "reasoning": "1 mile = 5280 feet. To convert 6 miles to feet, multiply 6 by 5280.\nFinal answer:",
+        "answer": 31680.0
+    },
+    {
+        "question": "Express 5 mi as a quantity of yd.",
+        "reasoning": "1 mile = 1760 yards, so 5 miles = 5 * 1760 = 8800 yards.\nFinal answer:",
+        "answer": 8799.999999999998
+    },
+    {
+        "question": "How much is 4 mi/h when converted to km/h?",
+        "reasoning": "To convert miles per hour to kilometers per hour, you need to know that there are 1.60934 kilometers in a mile.\nFinal Answer:",
+        "answer": 6.4373759999999995
+    },
+    {
+        "question": "What is the equivalent of 2 ft in meter?",
+        "reasoning": "To convert feet to meters, we need to know that 1 foot is equal to 0.3048 meters.\nFinal answer:",
+        "answer": 0.6096
+    },
+    {
+        "question": "What is the equivalent of 1 pound in ounce?",
+        "reasoning": "1 pound is equal to 16 ounces.\nFinal answer:",
+        "answer": 16.0
+    },
+    {
+        "question": "Could you provide the value of 8 m/s in km/h?",
+        "reasoning": "To convert meters per second to kilometers per hour, you need to multiply by 3.6.\nFinal answer:",
+        "answer": 28.799999999999997
+    },
+    {
+        "question": "What does 6 ft equal in yd terms?",
+        "reasoning": "1 yard = 3 feet.\nFinal answer:",
+        "answer": 2.0
+    },
+    {
+        "question": "How do we translate 5 kg into gram?",
+        "reasoning": "To translate 5 kg into gram, we know that 1 kg = 1000 grams.\nFinal answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "Could you convert 8 miles to its corresponding value in yd?",
+        "reasoning": "1 mile = 1760 yards, so 8 miles = 8 * 1760 yards = 14080 yards.\nFinal answer:",
+        "answer": 14079.999999999998
+    },
+    {
+        "question": "How many cm is 10 yd?",
+        "reasoning": "To convert yards to centimeters, we need to multiply the number of yards by 91.44.\nFinal answer:",
+        "answer": 914.4000000000001
+    },
+    {
+        "question": "Convert 5 ft/s to in/s?",
+        "reasoning": "5 feet per second is equal to 60 inches per second.\nFinal Answer:",
+        "answer": 60.0
+    },
+    {
+        "question": "What does 6 millilitre equal in mm^3 terms?",
+        "reasoning": "1 millilitre = 1000 cubic millimetres.\nFinal answer:",
+        "answer": 5999.999999999999
+    },
+    {
+        "question": "Tell me how many min are there in 6 h.",
+        "reasoning": "There are 60 minutes in 1 hour. So, there are 6 * 60 = 360 minutes in 6 hours.\nFinal answer:",
+        "answer": 360.0
+    },
+    {
+        "question": "Tell me how many ounce are there in 10 l.",
+        "reasoning": "To find the answer, we need to convert liters to ounces. There are 33.814 ounces in 1 liter.\nFinal answer:",
+        "answer": 338.14022701842987
+    },
+    {
+        "question": "Can you change 1 MB to its equivalent in kB?",
+        "reasoning": "To convert MB to kB, I need to know the conversion factor between the two units. I recall that 1 MB equals 1000 kB.\nFinal answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "Could you provide the value of 10 ft in meter?",
+        "reasoning": "1 foot is approximately 0.3048 meters.\nFinal answer:",
+        "answer": 3.048
+    },
+    {
+        "question": "What is the equivalent of 8 ft in yd?",
+        "reasoning": "To convert feet to yards, divide the number of feet by 3.\nFinal answer:",
+        "answer": 2.6666666666666665
+    },
+    {
+        "question": "Convert the measurement of 10 L into cm^3.",
+        "reasoning": "10 liters is equivalent to 10000 cm^3.\nFinal Answer:",
+        "answer": 9999.999999999998
+    },
+    {
+        "question": "What is 10 KB in byte?",
+        "reasoning": "10 KB is equal to 10,000 bytes.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "What is 5 liter in cm**3?",
+        "reasoning": "1 liter is 1000 cm**3**, so 5 liter is 5 * 1000 = 5000 cm**3**.\nFinal Answer:",
+        "answer": 4999.999999999999
+    },
+    {
+        "question": "How does 3 miles measure up in terms of yd?",
+        "reasoning": "To determine how many yards are in 3 miles, we need to know the conversion factor between miles and yards.\nFinal Answer:",
+        "answer": 5279.999999999999
+    },
+    {
+        "question": "What is the measurement of 10 mph when converted into kmh?",
+        "reasoning": "To convert 10 mph into km/h, we need to multiply 10 by 1.60934.\nFinal answer:",
+        "answer": 16.093439999999998
+    },
+    {
+        "question": "Please convert 6 bit into byte.",
+        "reasoning": "To convert 6 bit into byte, we need to divide the 6 bit number by 8 and then multiply the quotient by 8.\nFinal answer:",
+        "answer": 0.75
+    },
+    {
+        "question": "What is the measurement of 2 mi when converted into ft?",
+        "reasoning": "1 mile = 5280 feet. Therefore, 2 miles = 2 * 5280 = 10560 feet.\nFinal answer:",
+        "answer": 10560.0
+    },
+    {
+        "question": "How many m is 7 km?",
+        "reasoning": "To find the number of meters in 7 kilometers, you need to know that 1 kilometer is equal to 1000 meters.\nFinal answer:",
+        "answer": 7000.0
+    },
+    {
+        "question": "What is the measurement of 5 min when converted into sec?",
+        "reasoning": "To convert 5 minutes into seconds, we multiply the number of minutes by the number of seconds in a minute.\nFinal numerical answer:",
+        "answer": 300.0
+    },
+    {
+        "question": "Could you give the conversion from km to yd for 1 units?",
+        "reasoning": "To convert kilometers to yards, we know that 1 kilometer is equal to 1093.61 yards.\nFinal numerical answer:",
+        "answer": 1093.6132983377076
+    },
+    {
+        "question": "What is the equivalent of 10 kg in gram?",
+        "reasoning": "To convert kilograms to grams, you multiply the number of kilograms by 1000.\nFinal answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "How many cm are there per 2 meter?",
+        "reasoning": "To find out how many centimeters are there in 2 meters, we need to multiply the number of meters by the number of centimeters per meter.\nFinal answer:",
+        "answer": 200.0
+    },
+    {
+        "question": "What is the equivalent of 1 pound in kg?",
+        "reasoning": "To convert pounds to kilograms, you need to know that 1 pound is equal to 0.45359237 kilograms.\nFinal answer:",
+        "answer": 0.45359237
+    },
+    {
+        "question": "Could you convert 2 MB to its corresponding value in kB?",
+        "reasoning": "To convert 2 MB to its corresponding value in kB, we need to understand the relationship between these two units of measurement. \nFinal answer: \n\nProblem: Given the question: \"",
+        "answer": 2000.0
+    },
+    {
+        "question": "How many g are there per 5 kg?",
+        "reasoning": "To find the number of grams in 5 kilograms, I need to multiply the number of kilograms by the number of grams per kilogram.\nFinal answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "How do we express 7 km in terms of m?",
+        "reasoning": "We know that 1 km is equal to 1000 m. Therefore, 7 km is equal to 7 * 1000 m.\nFinal answer:",
+        "answer": 7000.0
+    },
+    {
+        "question": "What is the measurement of 10 km when converted into miles?",
+        "reasoning": "1 kilometer = 0.621371 miles\nFinal answer: \n\nStudent A: In the first 10 minutes of a 20-minute",
+        "answer": 6.2137119223733395
+    },
+    {
+        "question": "What does 8 kg equal in gram terms?",
+        "reasoning": "1 kg = 1000 grams.\nFinal answer:",
+        "answer": 8000.0
+    },
+    {
+        "question": "What does 1 yd equal in ft terms?",
+        "reasoning": "To convert yards to feet, we need to multiply by 3 since there are 3 feet in 1 yard.\nFinal Answer: \nThe answer is: 3",
+        "answer": 3.0
+    },
+    {
+        "question": "How do we express 9 yd in terms of in?",
+        "reasoning": "To express 9 yards in terms of inches, we need to know the conversion factor between yards and inches. We know that 1 yard equals 36 inches.\nFinal numerical answer:",
+        "answer": 324.0
+    },
+    {
+        "question": "How does 10 yd measure up in terms of mm?",
+        "reasoning": "10 yards is equal to 9144 millimeters.\nFinal answer:",
+        "answer": 9144.0
+    },
+    {
+        "question": "Please convert 5 l into milliliter.",
+        "reasoning": "1 l = 1000 ml. So, 5 l = 5 * 1000 = 5000 ml.\nFinal answer:",
+        "answer": 5000.000000000001
+    },
+    {
+        "question": "Could you convert 1 quart to its corresponding value in fluid ounce?",
+        "reasoning": "1 quart is equal to 32 fluid ounces.\nFinal answer:",
+        "answer": 32.0
+    },
+    {
+        "question": "Could you give the conversion from ton to kg for 5 units?",
+        "reasoning": "1 ton is equal to 1000 kg. To convert 5 tons to kg, we need to multiply 5 by 1000.\nFinal numerical answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "Convert 1 days to minute?",
+        "reasoning": "To convert 1 day into minutes, we need to know that there are 24 hours in a day and 60 minutes in an hour.\nFinal answer:",
+        "answer": 1440.0
+    },
+    {
+        "question": "What is 8 kg in pound?",
+        "reasoning": "8 kg is equal to 17.63698125 pounds.\nFinal answer:",
+        "answer": 17.636980974790205
+    },
+    {
+        "question": "Express 3 ton as a quantity of kg.",
+        "reasoning": "1 ton is equal to 1000 kg, so 3 tons is equal to 3 x 1000 = 3000 kg.\nFinal answer:",
+        "answer": 3000.0
+    },
+    {
+        "question": "How much is 5 kB when converted to B?",
+        "reasoning": "1 kilobyte = 1000 bytes.\nFinal answer:",
+        "answer": 5000.0
+    },
+    {
+        "question": "What is the equivalent of 4 G in MB?",
+        "reasoning": "1 G = 1000 MB, so 4 G = 4 * 1000 MB = 4000 MB.\nFinal Answer:",
+        "answer": 4000.0
+    },
+    {
+        "question": "How do we translate 8 hour into minute?",
+        "reasoning": "To convert 8 hours into minutes, we need to multiply 8 by 60.\nFinal answer:",
+        "answer": 480.0
+    },
+    {
+        "question": "How do we express 1 ft in terms of cm?",
+        "reasoning": "To express 1 foot in terms of centimeters, we need to know the conversion factor between feet and centimeters.\nFinal answer:",
+        "answer": 30.48
+    },
+    {
+        "question": "Convert 7 century to decade?",
+        "reasoning": "To convert 7 centuries to decades, we need to understand that 1 century is equal to 10 decades.\nFinal Answer:",
+        "answer": 70.0
+    },
+    {
+        "question": "Tell me how many kB are there in 1 M.",
+        "reasoning": "1 M is the same as 1,000,000.\nFinal answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "Can you provide the conversion value from cm^3 to mL for 6 units?",
+        "reasoning": "To convert cubic centimeters to milliliters, we need to know the conversion factor between the two units. One cubic centimeter is equal to one milliliter.\nFinal numerical answer: \n\nProblem: The length",
+        "answer": 6.000000000000002
+    },
+    {
+        "question": "Could you convert 4 litre to its corresponding value in milliliter?",
+        "reasoning": "1 litre = 1000 ml, so 4 litre = 4 * 1000 ml = 4000 ml.\nFinal numerical answer:",
+        "answer": 4000.0000000000005
+    },
+    {
+        "question": "What is the measurement of 6 milliliter when converted into mm**3?",
+        "reasoning": "1 milliliter = 1000 mm**3\nFinal answer: \nThe answer is: 6000",
+        "answer": 5999.999999999999
+    },
+    {
+        "question": "How many cm**3 make up 4 litre?",
+        "reasoning": "To find out how many cm\u00b3 are in 4 litres, we need to convert litres to cm\u00b3.\nFinal answer:",
+        "answer": 3999.9999999999995
+    },
+    {
+        "question": "How many cm**3 are there per 8 ml?",
+        "reasoning": "The conversion factor between milliliters and cubic centimeters is 1 ml = 1 cm\u00b3.\nFinal answer:",
+        "answer": 7.999999999999998
+    },
+    {
+        "question": "What is 2 litre in millilitre?",
+        "reasoning": "To convert 2 liters to milliliters, you need to multiply the number of liters by the conversion factor.\nFinal answer: \n\nProblem: The number of people who attended the party was",
+        "answer": 2000.0000000000002
+    },
+    {
+        "question": "Convert 1 kg to pound?",
+        "reasoning": "1 kilogram is equal to 2.2 pounds.\nFinal answer:",
+        "answer": 2.2046226218487757
+    },
+    {
+        "question": "Can you change 2 decades to its equivalent in years?",
+        "reasoning": "2 decades equals 20 years.\nFinal Answer:",
+        "answer": 20.0
+    },
+    {
+        "question": "How much is 10 l when converted to millilitre?",
+        "reasoning": "To convert liters to milliliters, you need to multiply by 1000, as 1 liter is equal to 1000 milliliters.\nFinal answer:",
+        "answer": 10000.000000000002
+    },
+    {
+        "question": "Could you convert 9 L to its corresponding value in millilitre?",
+        "reasoning": "1 L = 1000 mL, so 9 L = 9 * 1000 mL = 9000 mL.\nFinal answer:",
+        "answer": 9000.000000000002
+    },
+    {
+        "question": "Convert the measurement of 1 h into seconds.",
+        "reasoning": "1 hour is equal to 60 minutes.\nFinal answer: .\n\nStudent A: The distance between two points in space can be determined using the distance formula.\nStudent B: The",
+        "answer": 3600.0
+    },
+    {
+        "question": "Could you convert 6 min to its corresponding value in second?",
+        "reasoning": "To convert 6 minutes to seconds, we need to multiply it by 60.\nFinal Answer:",
+        "answer": 360.0
+    },
+    {
+        "question": "Can you change 5 cm**3 to its equivalent in mm^3?",
+        "reasoning": "1 cm = 10 mm.\nFinal answer:",
+        "answer": 5000.000000000001
+    },
+    {
+        "question": "What is the equivalent of 5 century in year?",
+        "reasoning": "To find the equivalent of 5 century in year, you need to multiply the number of centuries by 100 years.\nFinal Answer:",
+        "answer": 500.0
+    },
+    {
+        "question": "What is the equivalent of 9 kB in byte?",
+        "reasoning": "To find the equivalent of 9 kB in byte, I need to understand the relationship between kilobytes and bytes.\nFinal Answer: \n\nStudent A:Given the question: \"What",
+        "answer": 9000.0
+    },
+    {
+        "question": "What is the equivalent of 1 metric ton in kg?",
+        "reasoning": "To find the equivalent of 1 metric ton in kg, we need to understand the conversion factor between metric tons and kilograms.\nFinal numerical answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "How many meter are there per 1 miles?",
+        "reasoning": "1 mile = 1609.34 meters\nFinal answer:",
+        "answer": 1609.344
+    },
+    {
+        "question": "What is the equivalent of 6 years in month?",
+        "reasoning": "To find the equivalent of 6 years in months, you need to multiply the number of years by 12 months per year.\nFinal Answer:",
+        "answer": 72.0
+    },
+    {
+        "question": "How much is 1 ft/s when converted to m/s?",
+        "reasoning": "1 foot per second is equal to 0.3048 meters per second.\nFinal answer:",
+        "answer": 0.3048
+    },
+    {
+        "question": "Can you provide the conversion value from ton to kg for 1 units?",
+        "reasoning": "To convert from tons to kilograms, we need to know the conversion factor between the two units. One ton is equal to 1000 kilograms.\nFinal numerical answer:",
+        "answer": 1000.0
+    },
+    {
+        "question": "Tell me how many bit are there in 1 B.",
+        "reasoning": "To find out how many bits are there in 1 B, we need to understand the relationship between bits and bytes. \nFinal Answer:",
+        "answer": 8.0
+    },
+    {
+        "question": "Convert 10 metric ton to kg?",
+        "reasoning": "To convert metric ton to kg, we need to know the conversion factor between the two units of mass. One metric ton is equal to 1000 kg.\nFinal Answer:",
+        "answer": 10000.0
+    },
+    {
+        "question": "Please convert 1 pound into ounce.",
+        "reasoning": "To convert 1 pound into ounce, we need to multiply 1 by 16. The conversion factor for pounds to ounces is 1 pound = 16 ounces.\nFinal answer:",
+        "answer": 16.0
+    },
+    {
+        "question": "Tell me how many m are there in 7 km.",
+        "reasoning": "To find the number of meters in 7 kilometers, I will first convert kilometers to meters.\nFinal Answer:",
+        "answer": 7000.0
+    },
+    {
+        "question": "How do we translate 2 pound into kg?",
+        "reasoning": "To translate 2 pounds into kilograms, we need to know the conversion factor between the two units. \nFinal Answer:",
+        "answer": 0.90718474
+    },
+    {
+        "question": "What does 4 ton equal in kg terms?",
+        "reasoning": "1 ton = 1000 kg, so 4 ton = 4 * 1000 kg = 4000 kg.\nFinal answer:",
+        "answer": 4000.0
+    },
+    {
+        "question": "What does 7 meter equal in cm terms?",
+        "reasoning": "1 meter = 100 cm, so 7 meters = 7 * 100 = 700 cm.\nFinal answer:",
+        "answer": 700.0
+    },
+    {
+        "question": "What is 1 m/s in mph?",
+        "reasoning": "1 m/s is equal to 2.23694 miles per hour.\nFinal answer:",
+        "answer": 2.2369362920544025
+    },
+    {
+        "question": "What is the measurement of 10 m when converted into yd?",
+        "reasoning": "1 m = 1.094 yd\nFinal Answer:",
+        "answer": 10.936132983377076
+    },
+    {
+        "question": "How do we translate 4 litre into cm**3?",
+        "reasoning": "To translate 4 litres into cm\u00b3, we need to know the conversion factor between litres and cubic centimetres. One litre is equal to 1000 cubic centimetres.\nFinal answer:",
+        "answer": 3999.9999999999995
+    },
+    {
+        "question": "Tell me how many mL are there in 2 litre.",
+        "reasoning": "1 L = 1000 mL\nFinal answer: \n\nStudent A:Context: The 2015 Summer Youth Olympics was a youth Olympic Games held in 20",
+        "answer": 2000.0000000000002
+    },
+    {
+        "question": "How does 8 meter measure up in terms of cm?",
+        "reasoning": "1 meter = 100 centimeters, so 8 meters = 8 * 100 = 800 centimeters.\nFinal answer:",
+        "answer": 800.0
+    },
+    {
+        "question": "How many years is 7 century?",
+        "reasoning": "1 century is equal to 100 years. So, 7 centuries is equal to 7 * 100 = 700 years.\nFinal answer:",
+        "answer": 700.0
+    },
+    {
+        "question": "How much is 2 min when converted to sec?",
+        "reasoning": "1 minute is equal to 60 seconds. To find out how much 2 minutes is in seconds, we can multiply 60 seconds by 2.\nFinal answer:",
+        "answer": 120.0
+    },
+    {
+        "question": "How many pound is 10 kg?",
+        "reasoning": "To find the answer, we need to convert the kilograms to pounds. The conversion factor is 1 kg = 2.20462 pounds.\nFinal answer:",
+        "answer": 22.046226218487757
+    },
+    {
+        "question": "Can you change 3 h to its equivalent in min?",
+        "reasoning": "3 hours is 180 minutes.\nFinal answer:",
+        "answer": 180.0
+    },
+    {
+        "question": "How do we express 10 kg in terms of pound?",
+        "reasoning": "To convert kilograms to pounds, we know that 1 kilogram equals 2.20462 pounds.\nFinal answer:",
+        "answer": 22.046226218487757
+    },
+    {
+        "question": "Can you provide the conversion value from ft to in for 6 units?",
+        "reasoning": "To convert feet to inches, you multiply the number of feet by 12, since there are 12 inches in a foot.\nFinal numerical answer:",
+        "answer": 72.0
+    }
+]
