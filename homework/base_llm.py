@@ -120,7 +120,7 @@ class BaseLLM:
         if temperature > 0:
             generation_kwargs["do_sample"] = True
             generation_kwargs["temperature"] = temperature
-            generation_kwargs["top_p"] = 0.9 # Common sampling parameter
+            #generation_kwargs["top_p"] = 0.9 # Common sampling parameter
         else:
             generation_kwargs["do_sample"] = False
             # For greedy/beam search, num_beams > 1 would be used with do_sample=False
