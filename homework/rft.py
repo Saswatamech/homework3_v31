@@ -7,15 +7,15 @@ from pathlib import Path
 from .data import Dataset, benchmark
 
 
-def format_example(prompt: str, reasoning: str,answer: str) -> dict[str, str]:
+def format_example(prompt: str, answer: str,reasoning: str) -> dict[str, str]:
     """
     Construct a question / answer pair. Consider rounding the answer to make it easier for the LLM.
     """
     #rounded_answer = round(answer, 2)
     return {
             "question": prompt,
-            "reasoning": reasoning,
-            "answer": f"<answer>{answer}</answer>"
+            "answer": f"<answer>{answer}</answer>",
+            "reasoning": reasoning
     }
 
 class TokenizedDataset:
@@ -39,7 +39,7 @@ class TokenizedDataset:
         formated_data = self.format_fn(*self.data[idx])
         return tokenize(self.tokenizer, **formated_data)
 
-def tokenize(tokenizer, question: str, reasoning: str, answer: str):
+def tokenize(tokenizer, question: str, answer: str,reasoning: str):
     """
     Tokenize a data element.
     We first append the <EOS> token to the question / answer pair.
@@ -47,11 +47,11 @@ def tokenize(tokenizer, question: str, reasoning: str, answer: str):
     `labels[i] == -100` for the question or masked out parts, since we only want to supervise
     the answer.
     """
-    full_text = f"{question}{reasoning}{answer}{tokenizer.eos_token}"
+    full_text = f"{question}{answer}{reasoning}{tokenizer.eos_token}"
 
     tokenizer.padding_side = "right"
     tokenizer.pad_token = tokenizer.eos_token
-    full = tokenizer(full_text, padding="max_length", truncation=True)
+    full = tokenizer(full_text, padding="max_length", truncation=True, max_length=128)
 
     input_ids = full["input_ids"]
     question_len = len(tokenizer(question)["input_ids"])

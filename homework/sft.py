@@ -33,7 +33,7 @@ def tokenize(tokenizer, question: str, answer: str):
 
     tokenizer.padding_side = "right"
     tokenizer.pad_token = tokenizer.eos_token
-    full = tokenizer(full_text, padding="max_length", truncation=True)
+    full = tokenizer(full_text, padding="max_length", truncation=True, max_length=128)
 
     input_ids = full["input_ids"]
     question_len = len(tokenizer(question)["input_ids"])
@@ -90,8 +90,8 @@ def train_model(
 
         # Configure LoRA
         lora_config = LoraConfig(
-            r=8,  # Rank, chosen to keep model size below 20MB
-            lora_alpha=32, # 4-5 times the rank
+            r=4,  # Rank, chosen to keep model size below 20MB
+            lora_alpha=20, # 4-5 times the rank
             target_modules="all-linear",
             bias="none",
             task_type="CAUSAL_LM",
